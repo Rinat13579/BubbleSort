@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-        int[] mixArray = {4,5,6,3,2,9,5,4,2,0,5};
+        int[] mixArray = {-22,-56,-4,6,-5,-2,0,-2,5,4,9,-3,-56};
         System.out.println(Arrays.toString(mixArray));
         System.out.println(Arrays.toString(BubbleSort(mixArray)));
     }
